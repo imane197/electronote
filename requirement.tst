@@ -1,5 +1,0 @@
-Flask==3.0.0
-flask-cors==4.0.0
-mysql-connector-python==8.1.0
-python-dotenv==1.0.0
-bcrypt==4.0.1
